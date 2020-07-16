@@ -1,0 +1,21 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+<!--    dimensions used for add item dialog-->
+    <dimen name="margin_top">8dp</dimen>
+    <dimen name="item_margin_top">10dp</dimen>
+    <dimen name="item_margin_right">50dp</dimen>
+    <dimen name="margin_bottom">8dp</dimen>
+    <dimen name="margin_start">10dp</dimen>
+    <dimen name="margin_end">10dp</dimen>
+    <dimen name="form_header">25sp</dimen>
+    <dimen name="text_size">16sp</dimen>
+    <dimen name="total_text_size">20sp</dimen>
+    <dimen name="margin_left_currency">30sp</dimen>
+    <dimen name="width_spinner">150sp</dimen>
+    <dimen name="layout_weight_spinner">1</dimen>
+    <dimen name="layout_width_zero">0dp</dimen>
+    <dimen name="layout_height_zero">0dp</dimen>
+    <dimen name="items_layout_header_height">40dp</dimen>
+    <dimen name="padding">20dp</dimen>
+
+</resources>

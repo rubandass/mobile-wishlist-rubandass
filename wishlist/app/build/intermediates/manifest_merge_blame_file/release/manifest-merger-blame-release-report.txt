@@ -1,0 +1,155 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.jhonr1.wishlist"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->C:\Users\User\Documents\Year 3\mobile-wishlist-rubandass\wishlist\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\User\Documents\Year 3\mobile-wishlist-rubandass\wishlist\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\User\Documents\Year 3\mobile-wishlist-rubandass\wishlist\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\User\Documents\Year 3\mobile-wishlist-rubandass\wishlist\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->C:\Users\User\Documents\Year 3\mobile-wishlist-rubandass\wishlist\app\src\main\AndroidManifest.xml:6:5-81
+12-->C:\Users\User\Documents\Year 3\mobile-wishlist-rubandass\wishlist\app\src\main\AndroidManifest.xml:6:22-78
+13    <uses-permission android:name="android.permission.CAMERA" />
+13-->C:\Users\User\Documents\Year 3\mobile-wishlist-rubandass\wishlist\app\src\main\AndroidManifest.xml:7:5-65
+13-->C:\Users\User\Documents\Year 3\mobile-wishlist-rubandass\wishlist\app\src\main\AndroidManifest.xml:7:22-62
+14    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+14-->C:\Users\User\Documents\Year 3\mobile-wishlist-rubandass\wishlist\app\src\main\AndroidManifest.xml:8:5-79
+14-->C:\Users\User\Documents\Year 3\mobile-wishlist-rubandass\wishlist\app\src\main\AndroidManifest.xml:8:22-76
+15    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+15-->C:\Users\User\Documents\Year 3\mobile-wishlist-rubandass\wishlist\app\src\main\AndroidManifest.xml:9:5-81
+15-->C:\Users\User\Documents\Year 3\mobile-wishlist-rubandass\wishlist\app\src\main\AndroidManifest.xml:9:22-78
+16
+17    <!-- Include required permissions for Google Maps API to run. -->
+18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+18-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\fb92867cf349e52e0001c3c3ff6ec593\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+18-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\fb92867cf349e52e0001c3c3ff6ec593\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:22-76
+19
+20    <uses-feature
+20-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\fb92867cf349e52e0001c3c3ff6ec593\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+21        android:glEsVersion="0x00020000"
+21-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\fb92867cf349e52e0001c3c3ff6ec593\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+22        android:required="true" />
+22-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\fb92867cf349e52e0001c3c3ff6ec593\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+23
+24    <application
+24-->C:\Users\User\Documents\Year 3\mobile-wishlist-rubandass\wishlist\app\src\main\AndroidManifest.xml:11:5-59:19
+25        android:allowBackup="true"
+25-->C:\Users\User\Documents\Year 3\mobile-wishlist-rubandass\wishlist\app\src\main\AndroidManifest.xml:12:9-35
+26        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+26-->[androidx.core:core:1.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\8d02a953478a98038858352d75d41622\core-1.2.0\AndroidManifest.xml:24:18-86
+27        android:extractNativeLibs="false"
+28        android:icon="@drawable/wishlist_logo"
+28-->C:\Users\User\Documents\Year 3\mobile-wishlist-rubandass\wishlist\app\src\main\AndroidManifest.xml:13:9-47
+29        android:label="@string/app_name"
+29-->C:\Users\User\Documents\Year 3\mobile-wishlist-rubandass\wishlist\app\src\main\AndroidManifest.xml:14:9-41
+30        android:roundIcon="@mipmap/ic_launcher_round"
+30-->C:\Users\User\Documents\Year 3\mobile-wishlist-rubandass\wishlist\app\src\main\AndroidManifest.xml:15:9-54
+31        android:supportsRtl="true"
+31-->C:\Users\User\Documents\Year 3\mobile-wishlist-rubandass\wishlist\app\src\main\AndroidManifest.xml:16:9-35
+32        android:theme="@style/AppTheme" >
+32-->C:\Users\User\Documents\Year 3\mobile-wishlist-rubandass\wishlist\app\src\main\AndroidManifest.xml:17:9-40
+33        <activity
+33-->C:\Users\User\Documents\Year 3\mobile-wishlist-rubandass\wishlist\app\src\main\AndroidManifest.xml:18:9-21:20
+34            android:name="com.jhonr1.wishlist.activities.DetailsActivity"
+34-->C:\Users\User\Documents\Year 3\mobile-wishlist-rubandass\wishlist\app\src\main\AndroidManifest.xml:18:19-61
+35            android:parentActivityName="com.jhonr1.wishlist.activities.MainActivity" >
+35-->C:\Users\User\Documents\Year 3\mobile-wishlist-rubandass\wishlist\app\src\main\AndroidManifest.xml:19:13-66
+36        </activity>
+37        <activity
+37-->C:\Users\User\Documents\Year 3\mobile-wishlist-rubandass\wishlist\app\src\main\AndroidManifest.xml:22:9-26:20
+38            android:name="com.jhonr1.wishlist.activities.PrivacyPolicyActivity"
+38-->C:\Users\User\Documents\Year 3\mobile-wishlist-rubandass\wishlist\app\src\main\AndroidManifest.xml:23:13-61
+39            android:parentActivityName="com.jhonr1.wishlist.activities.MainActivity" >
+39-->C:\Users\User\Documents\Year 3\mobile-wishlist-rubandass\wishlist\app\src\main\AndroidManifest.xml:24:13-66
+40        </activity>
+41
+42        <meta-data
+42-->C:\Users\User\Documents\Year 3\mobile-wishlist-rubandass\wishlist\app\src\main\AndroidManifest.xml:28:9-30:55
+43            android:name="com.google.android.geo.API_KEY"
+43-->C:\Users\User\Documents\Year 3\mobile-wishlist-rubandass\wishlist\app\src\main\AndroidManifest.xml:29:13-58
+44            android:value="@string/google_maps_key" />
+44-->C:\Users\User\Documents\Year 3\mobile-wishlist-rubandass\wishlist\app\src\main\AndroidManifest.xml:30:13-52
+45
+46        <activity
+46-->C:\Users\User\Documents\Year 3\mobile-wishlist-rubandass\wishlist\app\src\main\AndroidManifest.xml:32:9-35:59
+47            android:name="com.jhonr1.wishlist.activities.MapsActivity"
+47-->C:\Users\User\Documents\Year 3\mobile-wishlist-rubandass\wishlist\app\src\main\AndroidManifest.xml:33:13-52
+48            android:parentActivityName="com.jhonr1.wishlist.activities.MainActivity"
+48-->C:\Users\User\Documents\Year 3\mobile-wishlist-rubandass\wishlist\app\src\main\AndroidManifest.xml:34:13-66
+49            android:theme="@style/AppTheme.NoActionBar" />
+49-->C:\Users\User\Documents\Year 3\mobile-wishlist-rubandass\wishlist\app\src\main\AndroidManifest.xml:35:13-56
+50        <activity
+50-->C:\Users\User\Documents\Year 3\mobile-wishlist-rubandass\wishlist\app\src\main\AndroidManifest.xml:36:9-44:20
+51            android:name="com.jhonr1.wishlist.activities.SplashScreenActivity"
+51-->C:\Users\User\Documents\Year 3\mobile-wishlist-rubandass\wishlist\app\src\main\AndroidManifest.xml:37:13-60
+52            android:theme="@style/AppTheme.NoActionBar" >
+52-->C:\Users\User\Documents\Year 3\mobile-wishlist-rubandass\wishlist\app\src\main\AndroidManifest.xml:38:13-56
+53            <intent-filter>
+53-->C:\Users\User\Documents\Year 3\mobile-wishlist-rubandass\wishlist\app\src\main\AndroidManifest.xml:39:13-43:29
+54                <action android:name="android.intent.action.MAIN" />
+54-->C:\Users\User\Documents\Year 3\mobile-wishlist-rubandass\wishlist\app\src\main\AndroidManifest.xml:40:17-69
+54-->C:\Users\User\Documents\Year 3\mobile-wishlist-rubandass\wishlist\app\src\main\AndroidManifest.xml:40:25-66
+55
+56                <category android:name="android.intent.category.LAUNCHER" />
+56-->C:\Users\User\Documents\Year 3\mobile-wishlist-rubandass\wishlist\app\src\main\AndroidManifest.xml:42:17-77
+56-->C:\Users\User\Documents\Year 3\mobile-wishlist-rubandass\wishlist\app\src\main\AndroidManifest.xml:42:27-74
+57            </intent-filter>
+58        </activity>
+59        <activity
+59-->C:\Users\User\Documents\Year 3\mobile-wishlist-rubandass\wishlist\app\src\main\AndroidManifest.xml:45:9-48:59
+60            android:name="com.jhonr1.wishlist.activities.MainActivity"
+60-->C:\Users\User\Documents\Year 3\mobile-wishlist-rubandass\wishlist\app\src\main\AndroidManifest.xml:46:13-52
+61            android:label="@string/app_name"
+61-->C:\Users\User\Documents\Year 3\mobile-wishlist-rubandass\wishlist\app\src\main\AndroidManifest.xml:47:13-45
+62            android:theme="@style/AppTheme.NoActionBar" />
+62-->C:\Users\User\Documents\Year 3\mobile-wishlist-rubandass\wishlist\app\src\main\AndroidManifest.xml:48:13-56
+63
+64        <provider
+65            android:name="androidx.core.content.FileProvider"
+65-->C:\Users\User\Documents\Year 3\mobile-wishlist-rubandass\wishlist\app\src\main\AndroidManifest.xml:51:13-62
+66            android:authorities="com.jhonr1.wishlist.provider"
+66-->C:\Users\User\Documents\Year 3\mobile-wishlist-rubandass\wishlist\app\src\main\AndroidManifest.xml:52:13-60
+67            android:exported="false"
+67-->C:\Users\User\Documents\Year 3\mobile-wishlist-rubandass\wishlist\app\src\main\AndroidManifest.xml:53:13-37
+68            android:grantUriPermissions="true" >
+68-->C:\Users\User\Documents\Year 3\mobile-wishlist-rubandass\wishlist\app\src\main\AndroidManifest.xml:54:13-47
+69            <meta-data
+69-->C:\Users\User\Documents\Year 3\mobile-wishlist-rubandass\wishlist\app\src\main\AndroidManifest.xml:55:13-57:58
+70                android:name="android.support.FILE_PROVIDER_PATHS"
+70-->C:\Users\User\Documents\Year 3\mobile-wishlist-rubandass\wishlist\app\src\main\AndroidManifest.xml:56:17-67
+71                android:resource="@xml/provider_paths" />
+71-->C:\Users\User\Documents\Year 3\mobile-wishlist-rubandass\wishlist\app\src\main\AndroidManifest.xml:57:17-55
+72        </provider>
+73        <!-- Needs to be explicitly declared on P+ -->
+74        <uses-library
+74-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\fb92867cf349e52e0001c3c3ff6ec593\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+75            android:name="org.apache.http.legacy"
+75-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\fb92867cf349e52e0001c3c3ff6ec593\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+76            android:required="false" />
+76-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\fb92867cf349e52e0001c3c3ff6ec593\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+77
+78        <meta-data
+78-->[com.google.maps.android:android-maps-utils:1.3.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\cdb10d2fc33979a6a924a92f13664a81\jetified-android-maps-utils-1.3.1\AndroidManifest.xml:12:9-14:69
+79            android:name="com.google.android.gms.version"
+79-->[com.google.maps.android:android-maps-utils:1.3.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\cdb10d2fc33979a6a924a92f13664a81\jetified-android-maps-utils-1.3.1\AndroidManifest.xml:13:13-58
+80            android:value="@integer/google_play_services_version" />
+80-->[com.google.maps.android:android-maps-utils:1.3.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\cdb10d2fc33979a6a924a92f13664a81\jetified-android-maps-utils-1.3.1\AndroidManifest.xml:14:13-66
+81
+82        <activity
+82-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\0e758d8c2fa6c327753911b3b429c84b\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+83            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+83-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\0e758d8c2fa6c327753911b3b429c84b\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+84            android:exported="false"
+84-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\0e758d8c2fa6c327753911b3b429c84b\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+85            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+85-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\0e758d8c2fa6c327753911b3b429c84b\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+86    </application>
+87
+88</manifest>

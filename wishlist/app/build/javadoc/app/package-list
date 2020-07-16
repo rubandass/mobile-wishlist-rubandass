@@ -1,0 +1,8 @@
+$dokka.format:gfm
+$dokka.linkExtension:md
+
+com.jhonr1.wishlist.activities
+com.jhonr1.wishlist.enums
+com.jhonr1.wishlist.fragments
+com.jhonr1.wishlist.helpers
+com.jhonr1.wishlist.interfaces

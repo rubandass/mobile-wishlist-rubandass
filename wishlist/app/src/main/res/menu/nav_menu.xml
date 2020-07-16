@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_about"
+        android:icon="@drawable/ic_info_black_24dp"
+        android:title="@string/about_us" />
+
+    <item
+        android:id="@+id/action_privacy"
+        android:icon="@drawable/ic_lock_black_24dp"
+        android:title="@string/privacy_policy" />
+
+    <item
+        android:id="@+id/action_switch"
+        android:title="@string/notifications"
+        android:icon="@drawable/ic_brightness_6_black_24dp"
+        app:actionLayout="@layout/layout_switch"/>
+
+    <item
+        android:id="@+id/action_exit"
+        android:icon="@drawable/ic_exit_to_app_black_24dp"
+        android:title="@string/exit" />
+
+</menu>

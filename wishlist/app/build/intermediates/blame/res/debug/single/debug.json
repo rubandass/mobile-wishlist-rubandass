@@ -1,0 +1,222 @@
+[
+    {
+        "merged": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\build\\intermediates\\res\\merged\\debug\\menu_nav_menu.xml.flat",
+        "source": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\src\\main\\res\\menu\\nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_itemlist.xml.flat",
+        "source": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\src\\main\\res\\menu\\menu_itemlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add_location_black_24dp.xml.flat",
+        "source": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\src\\main\\res\\drawable\\ic_add_location_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\build\\intermediates\\res\\merged\\debug\\layout_exit_dialog.xml.flat",
+        "source": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\src\\main\\res\\layout\\exit_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kmart.png.flat",
+        "source": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\src\\main\\res\\drawable\\kmart.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_privacy_policy.xml.flat",
+        "source": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\src\\main\\res\\layout\\activity_privacy_policy.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_exit_to_app_black_24dp.xml.flat",
+        "source": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\src\\main\\res\\drawable-v24\\ic_exit_to_app_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_details.xml.flat",
+        "source": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\src\\main\\res\\layout\\content_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header.xml.flat",
+        "source": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\src\\main\\res\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_details.xml.flat",
+        "source": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\src\\main\\res\\layout\\activity_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_brightness_6_black_24dp.xml.flat",
+        "source": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\src\\main\\res\\drawable-v24\\ic_brightness_6_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_right.xml.flat",
+        "source": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\src\\main\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_item_picture_add_symbol.xml.flat",
+        "source": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\src\\main\\res\\drawable-v24\\item_picture_add_symbol.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_add_white_24dp.xml.flat",
+        "source": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\src\\main\\res\\drawable-v24\\ic_add_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_wishlist_logo.png.flat",
+        "source": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\src\\main\\res\\drawable-v24\\wishlist_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\build\\intermediates\\res\\merged\\debug\\layout_spinner_dropdown_item.xml.flat",
+        "source": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\src\\main\\res\\layout\\spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\build\\intermediates\\res\\merged\\debug\\drawable_noel_leeming.png.flat",
+        "source": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\src\\main\\res\\drawable\\noel_leeming.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
+        "source": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_switch.xml.flat",
+        "source": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\src\\main\\res\\layout\\layout_switch.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\build\\intermediates\\res\\merged\\debug\\drawable_warehouse.png.flat",
+        "source": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\src\\main\\res\\drawable\\warehouse.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\src\\main\\res\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_maps.xml.flat",
+        "source": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_item_list.xml.flat",
+        "source": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\src\\main\\res\\layout\\custom_item_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\build\\intermediates\\res\\merged\\debug\\raw_map_style.json.flat",
+        "source": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\src\\main\\res\\raw\\map_style.json"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_right.xml.flat",
+        "source": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\src\\main\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\build\\intermediates\\res\\merged\\debug\\drawable_default_item_image.png.flat",
+        "source": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\src\\main\\res\\drawable\\default_item_image.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\build\\intermediates\\res\\merged\\debug\\layout_delete_itemlist.xml.flat",
+        "source": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\src\\main\\res\\layout\\delete_itemlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\build\\intermediates\\res\\merged\\debug\\layout_web_view.xml.flat",
+        "source": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\src\\main\\res\\layout\\web_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_left.xml.flat",
+        "source": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\src\\main\\res\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_info_black_24dp.xml.flat",
+        "source": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\src\\main\\res\\drawable\\ic_info_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_image_black_48dp.xml.flat",
+        "source": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\src\\main\\res\\drawable-v24\\ic_image_black_48dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_add_itemlist.xml.flat",
+        "source": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\src\\main\\res\\layout\\fragment_add_itemlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_left.xml.flat",
+        "source": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\src\\main\\res\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\build\\intermediates\\res\\merged\\debug\\xml_provider_paths.xml.flat",
+        "source": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\src\\main\\res\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_lock_black_24dp.xml.flat",
+        "source": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\src\\main\\res\\drawable\\ic_lock_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_more_vert_black_24dp.xml.flat",
+        "source": "C:\\Users\\User\\Documents\\Year 3\\mobile-wishlist-rubandass\\wishlist\\app\\src\\main\\res\\drawable\\ic_more_vert_black_24dp.xml"
+    }
+]

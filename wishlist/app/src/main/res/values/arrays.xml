@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="about_us_message">
+        <item>@string/about_us_msg1</item>
+        <item>@string/about_us_msg2</item>
+        <item>@string/about_us_msg3</item>
+    </string-array>
+</resources>
